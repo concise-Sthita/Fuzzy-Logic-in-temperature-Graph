@@ -10,7 +10,7 @@ This repository contains Jupyter notebooks demonstrating the application of fuzz
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.9
 - Jupyter Notebook
 - NumPy
 - Matplotlib
